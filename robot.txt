@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sepatu4daleternatif.pages.dev/sitemap.xml
