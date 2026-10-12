@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sepatu4daleternatif.pages.dev/sitemap.xml
+Sitemap: https://sepatu4d-oun-kamboja.pages.dev/sitemap.xml
